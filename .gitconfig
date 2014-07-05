@@ -1,0 +1,5 @@
+[user]
+	name = Arman Bilge
+	email = armanbilge@gmail.com
+[core]
+	excludesfile = /Users/armanbilge/.gitignore_global
